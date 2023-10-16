@@ -43,8 +43,9 @@ con empresas de robotica hechas en Peru, para el mundo entero.
 - Arquitectura esoterica de computadoras
 
   ### Bibliografia
-
-- Handbook of Robotics  (2da eds.) (2016, Springer ) - Bruno Siciliano, Oussama Khatib
+  
+- Handbook of Robotics (2da eds.)- Bruno Siciliano, Oussama Khatib
+  
 http://library.lol/main/33E5F85121614257DC00742C6DD4B661
 
 - The Design and Engineering of Curiosity How the Mars Rover Performs Its Job - Emily Lakdawalla - (2018, Springer) 
@@ -63,10 +64,9 @@ DOI: 10.1109/IROS.2005.1545277
 
 https://sci-hub.ru/10.1109/IROS.2005.1545277
 
+- PLANETARY ROVER MOBILITY ON LOOSE SOIL: TERRAMECHANICS THEORY FOR SIDE  SLIP PREDICTION AND COMPENSATION Nicolò Carletti  Master thesis 
 
-- PLANETARY ROVER MOBILITY ON LOOSE SOIL: TERRAMECHANICS THEORY FOR SIDE  SLIP PREDICTION AND COMPENSATION
-
-Nicolò Carletti  Master thesis 
+https://www.politesi.polimi.it/handle/10589/128181
 
 - Proceedings of Conference on Advances In Robotics - AIR '13 - Software for Modelling and Analysis of Rover on Terrain - DOI: 10.1145/2506095.2506112
 
