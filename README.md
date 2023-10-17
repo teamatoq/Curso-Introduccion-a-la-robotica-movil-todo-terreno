@@ -81,7 +81,7 @@ https://libgen.li/ads.php?md5=90F3C5A13CAC4B7FFD0BE92C52A98BC4
 https://libgen.li/ads.php?md5=F72F7B0C88B65E6433CDB84A6D48183D
 
 ## Tarea:
-- Usar la metodología de diseño mecatrónico para diseñar un robot todo terreno para la agricultura, que no sea Rociador de insecticida.(NO DE LA MISMA FUNCION DEL ARTICULO DE GUIA)
+- Usar la metodología de diseño mecatrónico para diseñar un robot todo terreno para la agricultura, que no sea Rociador de insecticida.
 
 - Diseño de servilleta (Boceto del robot todo terreno, explicando sus partes)
 
