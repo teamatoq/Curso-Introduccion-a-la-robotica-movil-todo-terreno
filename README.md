@@ -79,6 +79,54 @@ https://libgen.li/ads.php?md5=90F3C5A13CAC4B7FFD0BE92C52A98BC4
 - Mechatronic Systems Design Methods, Models, Concepts - Klaus Janschek 
 
 https://libgen.li/ads.php?md5=F72F7B0C88B65E6433CDB84A6D48183D
+
+## Tarea:
+- Usar la metodología de diseño mecatrónico para diseñar un robot todo terreno.(NO DE LA MISMA NATURALEZA DEL ARTICULO DE GUIA)
+
+- Diseño de servilleta (Boceto del robot todo terreno, explicando sus partes)
+
+- Diseño conceptual (Buscar en la bibliografía)
+
+Link de descarga - Artículo de guía
+
+https://sci-hub.ru/10.1109/CONCAPANXXXIX47272.2019.8976963
+
+Definir:
+
+- Tipo de terreno
+
+- Misión
+
+- Carga útil
+
+- Número de ruedas
+
+- Diámetro de las ruedas
+
+- Tiempo de funcionamiento
+
+- Suspensión activa o pasiva
+
+- Elementos para la navegación
+
+- Cámara lidar, sensores etc.
+
+- Tipo de arquitecturas usadas, Asics, Fpga, etc.
+
+- Software Usados para los diversos sub sistemas.
+
+- Peso del vehículo
+
+- Peso de las ruedas
+
+- Tipo de alimentación
+
+- Presupuesto
+
+- Tiempo de trabajo.
+
+(Si quieren agregarle más ítems son bienvenidos) //
+Me envían inbox con sus nombres y apellidos completos
  
 ~~~  
 Debo agradecer a Nicolas
