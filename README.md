@@ -2,15 +2,15 @@
 
 La idea del curso es brindar un panorama, para tener el punto de 
 
-inicio de robots móviles todo terreno. Sea el punto de partida para participar 
+inicio de robots móviles todoterreno. Sea el punto de partida para participar 
 
 con resultados favorables en concursos como el rover challenge y otros, 
 
-que sea el incio de crear robots para la agricultura de andenes que
+que sea el inicio de crear robots para la agricultura de andenes que
 
-tenemos en nuestros andes, y le saquemos provecho a lo que tenemos, 
+tenemos en nuestros Andes, y le saquemos provecho a lo que tenemos, 
 
-con empresas de robotica hechas en Peru, para el mundo entero.
+con empresas de robótica hechas en Perú, para el mundo entero.
 
  
 ~~~  
