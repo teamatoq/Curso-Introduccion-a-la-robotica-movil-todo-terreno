@@ -9,10 +9,10 @@ El proceso de diseño es dinámico: se generan y descartan opciones de diseño h
 
 Para convertirse en ingeniero de diseño, hay que tener en cuenta varios aspectos de la tarea:
 
-¿Qué debe tener un buen ingeniero de diseño?
-¿Cómo hacer que el diseño se ayude a sí mismo?
-¿Cómo se mantiene informado?
-¿Cómo elegir entre todas las opciones?
-¿Cómo crear una metodología de diseño?
-¿Cómo hacer que el diseño sea seguro?
-¿Cómo se desarrollan los diseños conceptuales?
+- ¿Qué debe tener un buen ingeniero de diseño?
+- ¿Cómo hacer que el diseño se ayude a sí mismo?
+- ¿Cómo se mantiene informado?
+- ¿Cómo elegir entre todas las opciones?
+- ¿Cómo crear una metodología de diseño?
+- ¿Cómo hacer que el diseño sea seguro?
+- ¿Cómo se desarrollan los diseños conceptuales?
